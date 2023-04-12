@@ -1,2 +1,1 @@
-# tareas-
-tarea del curso
+# trabajos-python-
